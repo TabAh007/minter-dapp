@@ -1,5 +1,5 @@
 const contractAddress = "0x7BDD9fc61209828fdf40e09953452e7C7b6Aa726"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Emperor Mikado NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
