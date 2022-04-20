@@ -49,7 +49,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'polygon'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'emperormikado.xyz';
+const CONTRACT_NAME = 'Emperor Mikado';
 const CONTRACT_SYMBOL = 'EM';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x996ece047c0B31494Cf9486D56159a256B1C740a';
